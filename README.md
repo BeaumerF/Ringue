@@ -8,7 +8,9 @@ Throw your rotary telephone, the future is the voice over IP !
   - Boost.Asio (server side)
 
 ## How does it work ?
-You have only one channel with the connected users list, you can select one of them to start a call
+First, host the server on Linux.
+Then, when you'll start your clients (on Windows or Linux), you'll have only one channel with the connected users list.
+Finally, you'll be able to select one of them to start a call.
 
 ## Why this project ?
 As mumble did with Qt4, Ringue try do it with Qt5 and lighter				
